@@ -7,6 +7,7 @@
 <h6>:camel: PROGRAMMING SKILLS | <a href="https://leetcode.com/studyplan/programming-skills/">LC</a></h6>
 <ol>
   <li><a href="problemsets/lc/ps/1768_merge_strings_alternatively">merge strings alternatively</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/389_find_the_difference">find the difference</a> E ©️</li>
 </ol>
 
 
