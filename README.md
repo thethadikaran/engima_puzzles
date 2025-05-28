@@ -8,6 +8,7 @@
 <ol>
   <li><a href="problemsets/lc/ps/1768_merge_strings_alternatively">merge strings alternatively</a> E ©️</li>
   <li><a href="problemsets/lc/ps/389_find_the_difference">find the difference</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/242_valid_anagram">valid anagram</a> E ©️</li>
 </ol>
 
 
