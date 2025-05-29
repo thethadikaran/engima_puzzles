@@ -11,6 +11,7 @@
   <li><a href="problemsets/lc/ps/242_valid_anagram">valid anagram</a> E ©️</li>
   <li><a href="problemsets/lc/ps/283_move_zeros">move zeros</a> E ©️</li>
   <li><a href="problemsets/lc/ps/1822_sign_of_the_product_of_the_array">sign of the product of the array</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/896_monotonic_array">monotonic array</a> E ©️</li>
 </ol>
 
 
