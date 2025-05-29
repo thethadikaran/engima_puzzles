@@ -13,6 +13,7 @@
   <li><a href="problemsets/lc/ps/1822_sign_of_the_product_of_the_array">sign of the product of the array</a> E ©️</li>
   <li><a href="problemsets/lc/ps/896_monotonic_array">monotonic array</a> E ©️</li>
   <li><a href="problemsets/lc/ps/1502_ap_from_sequence">can make arithmetic progression from sequence</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/13_roman_to_int">roman to integer</a> E ©️</li>
 </ol>
 
 
