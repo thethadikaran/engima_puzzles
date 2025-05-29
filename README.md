@@ -16,6 +16,7 @@
   <li><a href="problemsets/lc/ps/13_roman_to_int">roman to integer</a> E ©️</li>
   <li><a href="problemsets/lc/ps/66_plus_one">plus one</a> E ©️</li>
   <li><a href="problemsets/lc/ps/58_length_of_last_word">length of the last word</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/709_to_lower_case">to lower case</a> E ©️</li>
 </ol>
 
 
