@@ -20,6 +20,7 @@
   <li><a href="problemsets/lc/ps/28_index_of_first_occurrence">find the index of the first occurrence in a string</a> E ©️</li>
   <li><a href="problemsets/lc/ps/682_baseball_game">baseball game</a> E ©️</li>
   <li><a href="problemsets/lc/ps/657_robot_return_to_origin">robot return to origin</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/1275_find_winner_on_tic_tac_toe_game">find winner on a tic-tac-toe game</a> E ©️</li>
 </ol>
 
 
