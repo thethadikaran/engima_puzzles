@@ -26,6 +26,7 @@
   <li><a href="problemsets/lc/ps/1572_matrix_diagonal_sum">matrix diagonal sum</a> E ©️</li>
   <li><a href="problemsets/lc/ps/206_reverse_linked_list">reverse linked list</a> E ©️</li>
   <li><a href="problemsets/lc/ps/21_merge_2_sorted_list">merge two sorted list</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/2_add_two_numbers">add two numbers</a> M ©️</li>
 </ol>
 
 
