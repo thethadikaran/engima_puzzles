@@ -29,6 +29,7 @@
   <li><a href="problemsets/lc/ps/2_add_two_numbers">add two numbers</a> M ©️</li>
   <li><a href="problemsets/lc/ps/1523_count_odd_no_in_an_interval_range">count odd numbers in an interval range</a> E ©️</li>
   <li><a href="problemsets/lc/ps/445_add_two_sum_2">add two numbers II</a> M ©️</li>
+  <li><a href="problemsets/lc/ps/1491_avg_salary_excluding_min_max">average salary excluding the minimum and maximum salary</a> E ©️</li>
 </ol>
 
 
