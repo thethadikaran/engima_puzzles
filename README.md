@@ -32,6 +32,7 @@
   <li><a href="problemsets/lc/ps/1491_avg_salary_excluding_min_max">average salary excluding the minimum and maximum salary</a> E ©️</li>
   <li><a href="problemsets/lc/ps/860_lemonade_change">lemonade change</a> E ©️</li>
   <li><a href="problemsets/lc/ps/976_largest_perimeter_triangle">largest perimeter triangle</a> E ©️</li>
+  <li><a href="problemsets/lc/ps/1232_check_if_its_a_straight_line">Check if it's a straight line</a> E ©️</li>
 </ol>
 
 
