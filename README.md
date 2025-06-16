@@ -36,6 +36,20 @@
 </ol>
 
 
+---
+
+
+
+<h6>:camel: ARRAYS & HASHING | <a href="https://neetcode.io/roadmap">LC</a></h6>
+<ol>
+  <li><a href="problemsets/lc/array_nd_hashing/217_contains_duplicate">contains duplicate</a> E ©️</li>
+</ol>
+
+
+---
+
+
+
 ```
                         .--.   |V|
                        /    \ _| /   Vanakkam!!!
