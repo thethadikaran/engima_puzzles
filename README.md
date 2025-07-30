@@ -39,8 +39,7 @@
 ---
 
 
-
-<h6>:camel: ARRAYS & HASHING | <a href="https://neetcode.io/roadmap">LC</a></h6>
+<h6>:camel: ARRAYS & HASHING | <a href="https://neetcode.io/roadmap">RM</a></h6>
 <ol>
   <li><a href="problemsets/lc/array_nd_hashing/217_contains_duplicate">contains duplicate</a> E ©️ 🐍 </li>
   <li><a href="problemsets/lc/array_nd_hashing/1_two_sum">two sum</a> E ©️ 🐍 </li>
@@ -50,6 +49,13 @@
 ---
 
 
+<h6>:camel: STACK & QUEUE | <a href="https://neetcode.io/roadmap">RM</a></h6>
+<ol>
+  <li><a href="problemsets/lc/stack/implement_queue_w_stack">implement queue using stack</a> E ©️ </li>
+</ol>
+
+
+---
 
 ```
                         .--.   |V|
