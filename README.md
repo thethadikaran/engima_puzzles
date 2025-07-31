@@ -43,6 +43,7 @@
 <ol>
   <li><a href="problemsets/lc/array_nd_hashing/217_contains_duplicate">contains duplicate</a> E ©️ 🐍 </li>
   <li><a href="problemsets/lc/array_nd_hashing/1_two_sum">two sum</a> E ©️ 🐍 </li>
+  <li><a href="problemsets/lc/array_nd_hashing/4_median_of_2_sorted_array">median of 2 sorted array</a> H ©️ </li>
 </ol>
 
 
