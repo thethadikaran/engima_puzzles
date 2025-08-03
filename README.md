@@ -53,6 +53,7 @@
 <h6>:camel: STACK & QUEUE | <a href="https://neetcode.io/roadmap">RM</a></h6>
 <ol>
   <li><a href="problemsets/lc/stack/implement_queue_w_stack">implement queue using stack</a> E ©️ </li>
+  <li><a href="problemsets/lc/stack/20_valid_parentheses">valid parentheses</a> E ©️ </li>
 </ol>
 
 
