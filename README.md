@@ -54,6 +54,7 @@
 <ol>
   <li><a href="problemsets/lc/stack/implement_queue_w_stack">implement queue using stack</a> E ©️ </li>
   <li><a href="problemsets/lc/stack/20_valid_parentheses">valid parentheses</a> E ©️ </li>
+  <li><a href="problemsets/lc/stack/150_evaluate_reverse_polish_notation">evaluate reverse polish notation</a> M ©️ </li>
 </ol>
 
 
