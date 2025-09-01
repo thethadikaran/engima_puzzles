@@ -56,6 +56,7 @@
   <li><a href="problemsets/lc/stack/20_valid_parentheses">valid parentheses</a> E ©️ </li>
   <li><a href="problemsets/lc/stack/150_evaluate_reverse_polish_notation">evaluate reverse polish notation</a> M ©️ </li>
   <li><a href="problemsets/lc/stack/622_design_a_circular_queue">design a circular queue</a> M ©️ </li>
+  <li><a href="problemsets/lc/stack/infix_to_postfix">convert infix to postfix expression</a> ©️ </li>
 </ol>
 
 
