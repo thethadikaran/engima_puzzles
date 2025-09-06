@@ -58,6 +58,7 @@
   <li><a href="problemsets/lc/stack/622_design_a_circular_queue">design a circular queue</a> M ©️ </li>
   <li><a href="problemsets/lc/stack/infix_to_postfix">convert infix to postfix expression</a> ©️ </li>
   <li><a href="problemsets/lc/stack/32_longest_valid_parentheses">longest valid parentheses</a> H ©️ </li>
+  <li><a href="problemsets/lc/stack/155_min_stack">min stack</a> M ©️ </li>
 </ol>
 
 
